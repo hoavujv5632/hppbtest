@@ -67,7 +67,7 @@ span {
     animation: balloon2 6s ease-in-out infinite;
 }
 .balloon > div:nth-child(2):before {
-    color: rgba(242, 112, 45, 0.9);
+    color: rgba(228, 96, 30, 0.9);
 }
 .balloon > div:nth-child(3) {
     background: rgba(45, 181, 167, 0.9);
